@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Mon, 03 Mar 2014 21:03:42 +0200
+Source: wsgate
+Binary: wsgate
+Architecture: source amd64
+Version: 1.2.0-250
+Distribution: unstable
+Urgency: low
+Maintainer: Mario Reja <mreja@cloudbasesolutions.com>
+Changed-By: Reja Mario <mreja@cloudbasesolutions.com>
+Description: 
+ wsgate     - FreeRDP-WebConnect gateway
+Changes: 
+ wsgate (1.2.0-250) unstable; urgency=low
+ .
+     Added ubuntu/precise specific control info
+Checksums-Sha1: 
+ 4ec9f27e21ce6326f2ff931fdf51e37d 1393 wsgate_1.2.0-250.dsc
+ 5fe71349d4eadc96b064f91f23388aa589eb02fd 3470158 wsgate_1.2.0-250.tar.gz
+ eca7737dfe2b0ef3468769099737e23df2936d59 2408502 wsgate_1.2.0-250_amd64.deb
+Checksums-Sha256: 
+ 4ec9f27e21ce6326f2ff931fdf51e37d 1393 wsgate_1.2.0-250.dsc
+ a775ed862cd6f0ef086bc7a79452f57d94bbbe5383b196a456489ca17d0c3cc8 3470158 wsgate_1.2.0-250.tar.gz
+ 45a820d585da7d87b8c92879e37bfd2c280f9459d0e81349a955b7cce61fb35a 2408502 wsgate_1.2.0-250_amd64.deb
+Files: 
+ 4ec9f27e21ce6326f2ff931fdf51e37d 1393 net extra wsgate_1.2.0-250.dsc
+ e578805e3331a36c0ee68315821d3bba 3470158 net extra wsgate_1.2.0-250.tar.gz
+ 8d4f165a4848707e49bc4f650b6884a4 2409464 net extra wsgate_1.2.0-250_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJTFNQTAAoJEHo82nMPB7RZZ1EIAJc4kHitnuUZ0mAb4x17L8QO
+CNMaK/ZnzdKfEW3jYQta+BVYTT82eiBCUjJ1T0L81TVf09XTdPLRYcyLYH3Y3m8b
+CydwS4zaZDDDH6EqH19RQHzIGfL0aC60Z1qlkRS2NYEahk/q379T/a/RT8Ip837J
+tst/c3M07mjyoiZmXLBaNlIB53TEQP5NwC+ZJeLlvxTrNQD/Jquythb1ciw59kDw
+pMVWnq5yM7SHUi7lXz4B01V8yXL83StgiMTNXWAhSPVsLVTBkFcovk1UEeJU7/uQ
+BQ2RUH0C55aYHezUK6gHwdPTrKs1M9MXsCeU7NycemNFpnIBmn9fdM+uxgT2yNo=
+=h4tE
+-----END PGP SIGNATURE-----
