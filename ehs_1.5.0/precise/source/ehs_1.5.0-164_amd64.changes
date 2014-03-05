@@ -2,49 +2,46 @@
 Hash: SHA1
 
 Format: 1.8
-Date: Sun, 02 Mar 2014 13:31:02 -0500
+Date: Thu, 11 Apr 2013 08:44:00 -0400
 Source: ehs
 Binary: libehs-dev libehs
 Architecture: source amd64
 Version: 1.5.0-164
 Distribution: unstable
 Urgency: low
-Maintainer: Mario Reja <mreja@cloudbasesolutions.com>
-Changed-By: Mario Reja <mreja@cloudbasesolutions.com>
+Maintainer: Fritz Elfert <ehsdev@fritz-elfert.de>
+Changed-By: Michael Kukat <ehsdev@kukat.name>
 Description: 
  libehs     - Embedded HTTP server
  libehs-dev - Embedded HTTP server
 Changes: 
  ehs (1.5.0-164) unstable; urgency=low
  .
-   [ Michael Kukat ]
    * Added missing assignment operator for unsigned int
-   [ Mario Reja ]
-   * Started packaging ehs
 Checksums-Sha1: 
- 83258c92e270268648b91ab159754d6c6e4274f4 1256 ehs_1.5.0-164.dsc
- 5f118982b978601214f4a04e9b11a69924977a7d 1074116 ehs_1.5.0-164.tar.gz
- 267480a0a505297ad2bc7628a1f5df67db3848fd 736176 libehs-dev_1.5.0-164_amd64.deb
- c605d3210a35c14bd370c5887a4555f96a421f5a 116370 libehs_1.5.0-164_amd64.deb
+ 874e1099fbe1fb0673a175a98b6dd899 1252 ehs_1.5.0-164.dsc
+ 4ac04c2081a2b4cdd6ab56bc2496c069e2aa0199 1074633 ehs_1.5.0-164.tar.gz
+ dccee8ca7cc487146b8d36180529e25426b9c84b 735896 libehs-dev_1.5.0-164_amd64.deb
+ 6685c90ea8377b4f432a2aa0a6a5db3c797af6db 116300 libehs_1.5.0-164_amd64.deb
 Checksums-Sha256: 
- 801d8a429eb2e37f5a6da5ba889e4f8f1d5e50fcec614d561139ef9aed45ad5c 1256 ehs_1.5.0-164.dsc
- a4a0c77298736af10eb04815d4ee167fa352616b6fb67dd01e1c505d5ed3c0f4 1074116 ehs_1.5.0-164.tar.gz
- 7da503db6d34c959d0bc6363c3f428ed172a5151cce56163898415bf77a2b3ba 736176 libehs-dev_1.5.0-164_amd64.deb
- 362c75a7893451c3c6c67f7c689d63aec289b8fd5bf8fc7b037d86482dd43520 116370 libehs_1.5.0-164_amd64.deb
+ 874e1099fbe1fb0673a175a98b6dd899 1252 ehs_1.5.0-164.dsc
+ 14687333cd14e19b3b2b203eb0b3e42fe1e1dc8d068a763c6a8a9954f7655275 1074633 ehs_1.5.0-164.tar.gz
+ 754775d5cfe2b2e44fa180c6ab265b40029793eee2bea806608622f36af8ab98 735896 libehs-dev_1.5.0-164_amd64.deb
+ 5fbc862f5107b34b9e3ca5a0c4006f17e0d703f062a90c82f4ee42de4d3259f8 116300 libehs_1.5.0-164_amd64.deb
 Files: 
- d35ede1cb6ad940b94b42abbeffa8a57 1256 libs extra ehs_1.5.0-164.dsc
- 869540403a46dc0f314681e36853d1b7 1074116 libs extra ehs_1.5.0-164.tar.gz
- 87e5a7d4d2a67acabbde6fe969430178 736176 libdevel extra libehs-dev_1.5.0-164_amd64.deb
- 3c63910947ac6a36fe3e3c0c190b520f 116370 libs extra libehs_1.5.0-164_amd64.deb
+ 874e1099fbe1fb0673a175a98b6dd899 1252 libs extra ehs_1.5.0-164.dsc
+ 6013c584d36bdc9e392de81b93d9e44b 1074633 libs extra ehs_1.5.0-164.tar.gz
+ ad0ef6b96abb73560a8522f87c1e1694 736858 libdevel extra libehs-dev_1.5.0-164_amd64.deb
+ d56c113890e623e0b7780bbdc3751920 117260 libs extra libehs_1.5.0-164_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.11 (GNU/Linux)
 
-iQEcBAEBAgAGBQJTE3oIAAoJEHo82nMPB7RZTh8H/iozpuNqvtDYAdRBIjf2sr+c
-jvWcRtaB8G8iyVWiZuIdOYVYJkKLecm36Q89BQRosjC3vaA+PE9RCUdQmGaTkn7Y
-cRC3h4DPkjhueodzRSYvNVZyToAwKC17ynxF39HWozc6SH+01tDsBcGNra9NBoYw
-OWh+jE8NgxtMUEpGbG2ifpzfMZTrK6L+4A7dsmR5qPbu0F8sI2PXzvNA85wK+llf
-fJwMVbzQmKMKvT/Ak/2FvYFgtsrwnsq9WyDGEQ156uM7TvnQ8HAnXYFq/QnhGOMH
-r+obRoEWbdoD31gNlmb8l2ckyV5Pyb+c6JzFGGj6VU+GkKtUskfpFyQWGtQOgyw=
-=H++C
+iQEcBAEBAgAGBQJTF3bqAAoJEHo82nMPB7RZChsH/iUKLEyDVnmDh3tpjWCBN4Kp
+gfuTRKK6GfOgeFs8CSbFOxskGsZW4/KXcAHUvVob0p5d4S05nBVZtlB/fV/1Pvmy
+ljIlV6JIa9BTypCV3FRG4PUw11qm4DV713CxkUaJTzWGyoxFemuRIObRnbyKmi7O
+IIsrEhcthAH6Na1T1kuXKNsyAlVnrqltLoRSEPi3oPHZViE8lVWO1jDVjIm5I4O2
+d5IPgjB4W6fhfyByRAjyyaiatLrePJ+6n5nM2BKNeuyXgATp9qCD79MI8CWIQDLF
+xNNmbVTedGW6eMEvsMsE5cAu3ixbzgUS6IlcAIAGSYmZpbef4hHWGOA8tUnBH10=
+=nj4D
 -----END PGP SIGNATURE-----

@@ -6,7 +6,7 @@ Source: ehs
 Binary: libehs-dev, libehs
 Architecture: any
 Version: 1.5.0-164
-Maintainer: Mario Reja <mreja@cloudbasesolutions.com>
+Maintainer: Fritz Elfert <ehsdev@fritz-elfert.de>
 Homepage: http://ehs.fritz-elfert.de
 Standards-Version: 3.9.2
 Build-Depends: debhelper (>= 8.0.0), autotools-dev, g++, libssl-dev, libdw-dev, libboost1.48-dev, libboost-regex1.48-dev, libpcre3-dev, libtool, doxygen, graphviz
@@ -14,20 +14,20 @@ Package-List:
  libehs deb libs extra
  libehs-dev deb libdevel extra
 Checksums-Sha1: 
- 5f118982b978601214f4a04e9b11a69924977a7d 1074116 ehs_1.5.0-164.tar.gz
+ 4ac04c2081a2b4cdd6ab56bc2496c069e2aa0199 1074633 ehs_1.5.0-164.tar.gz
 Checksums-Sha256: 
- a4a0c77298736af10eb04815d4ee167fa352616b6fb67dd01e1c505d5ed3c0f4 1074116 ehs_1.5.0-164.tar.gz
+ 14687333cd14e19b3b2b203eb0b3e42fe1e1dc8d068a763c6a8a9954f7655275 1074633 ehs_1.5.0-164.tar.gz
 Files: 
- 869540403a46dc0f314681e36853d1b7 1074116 ehs_1.5.0-164.tar.gz
+ 6013c584d36bdc9e392de81b93d9e44b 1074633 ehs_1.5.0-164.tar.gz
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.11 (GNU/Linux)
 
-iQEcBAEBAgAGBQJTE3nTAAoJEHo82nMPB7RZ3RcH/00SfzzwUOOPg2gyj1BK089D
-XqwIL7ifspIRffLJnPk1TTysm0tO2BoEsPqDdeVKHdvmKebffzWnQlxwqF2ehoxG
-QsuF/c44G1oibqjxEY/gCt+7nXpZEYEXKBgXcHm0rlAZ24liZ/p2nDQYc0/1Wuvg
-zllwSQRUJHZhOnmjQ/TWC3+kISZJFVLV1L9gHLfQFwfNpvrWIO643gB4N3lvs5n8
-KgZJUCDTpvWuGSJQNsVXaCJVWRr38/Ar1jwrBResgsxMtvQGFJdl3W4K7xfEz6p+
-evB1rRzyTtsbhN0dNRqBaF19Rlp2+1d00nmIMbFHIEI2bGDxLcX/moVE8+0XHqg=
-=p0Fa
+iQEcBAEBAgAGBQJTF3bmAAoJEHo82nMPB7RZIqcH/iQkxG2mTWe2BX6GawevvTZK
+rpauM3MfMiezko2zOwY4SQcmn1phlXdS/ICeLOlq6OnUgr3pSB7lQnOR5THCKWra
+cViDuyZHz0f4vUCLBqp/IQ8v8bRtRHas4osoWuoiSsOh3rYJo1jF73rbY8+LadbW
+oNv2kKrPVEV2s+Dqg/J6XTZuuM0aBIF7IMEHcErIWuOjQO/ShZY6qarOpUUZFlKa
+cUZmq1NbnpIt2L0Hjkh72akXv/STX5k5fvvHn6m4IIpNi11rFUooPQGmCr4i0B/S
+HJVHLliMLl7p1Uq6JQwMFhwGXC6/LMnZ6UsmcEnnZYq6BPkQpvwPsWTestHs/cg=
+=3nWz
 -----END PGP SIGNATURE-----

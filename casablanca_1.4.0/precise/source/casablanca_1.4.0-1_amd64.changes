@@ -19,32 +19,32 @@ Changes:
  .
    * Initial release
 Checksums-Sha1: 
- 0f33b8031825508ec6b5161585ca2db0f1450c57 1617 casablanca_1.4.0-1.dsc
+ d7e0a99f2da5d420d4b97b8261577f34 1603 casablanca_1.4.0-1.dsc
  f4eb6968d16ab6a47787b53dc0f53a8e8868fd4b 3545146 casablanca_1.4.0.orig.tar.gz
- e946e15aae6fc72037d78904220c6e57b5956774 2448 casablanca_1.4.0-1.debian.tar.gz
- fa20cebe94e3f4dbe24f37e33254c3be61783335 184006 casablanca-dev_1.4.0-1_amd64.deb
- ac849298c0c750386b67cc121c85ba0fcbd47a18 482328 casablanca_1.4.0-1_amd64.deb
+ ff8191f66d95cc210bdee142f7b3f650a1f9e933 2478 casablanca_1.4.0-1.debian.tar.gz
+ 6ac3c65b7bf4220807872adf4d050907ba234556 184004 casablanca-dev_1.4.0-1_amd64.deb
+ 1e9df413deeb551d5a4fa8b4bc7d9e3f3438e4a6 482338 casablanca_1.4.0-1_amd64.deb
 Checksums-Sha256: 
- 58dff6077b9c6b2133a4b69249dca4b0e89e298e6e8755a22dda643480b91616 1617 casablanca_1.4.0-1.dsc
+ d7e0a99f2da5d420d4b97b8261577f34 1603 casablanca_1.4.0-1.dsc
  c08cc0a2be9fb4a6a5ecb14b1d666f8dbf3ea4f80b59bb717c2d9b1d60299afc 3545146 casablanca_1.4.0.orig.tar.gz
- d147d96a66a90b2e0144838c4b78fe7ba89a8be1057d21bcfb46d3be7454e49e 2448 casablanca_1.4.0-1.debian.tar.gz
- 147d830c0a7b8c60473607d9cdaaf68c60527ff9cf3f5caa5709bb4027065a5c 184006 casablanca-dev_1.4.0-1_amd64.deb
- 8a47ec3c376c45e427f04b019ce7d1c9109be84b8e4471d04f888044b55d0d15 482328 casablanca_1.4.0-1_amd64.deb
+ b3b820e3a4f123b50dc935d05173018787159865e298d2e0ce7e4faa02dd56f3 2478 casablanca_1.4.0-1.debian.tar.gz
+ 7fbac8759c4097c3baec19e3f627b055b7431ba22faa8886c13ae8e213347afc 184004 casablanca-dev_1.4.0-1_amd64.deb
+ f5cfd07237bd2ce0ebbc4c8e51cb2979e880b2ec69daecbc9637f6e4704e941d 482338 casablanca_1.4.0-1_amd64.deb
 Files: 
- a1bc54fcff461eadd5c3f7659ab30e2e 1617 libs extra casablanca_1.4.0-1.dsc
+ d7e0a99f2da5d420d4b97b8261577f34 1603 libs extra casablanca_1.4.0-1.dsc
  ac1b96b198d5b1bef46c27df0dc5d825 3545146 libs extra casablanca_1.4.0.orig.tar.gz
- e83e282e7e6ddfc7e53c730957cac626 2448 libs extra casablanca_1.4.0-1.debian.tar.gz
- b7884a7c3d2c458a16ae5e8afdb463aa 184006 libdevel extra casablanca-dev_1.4.0-1_amd64.deb
- f2c62a5ada04e8a603df00315729b9b9 482328 libs extra casablanca_1.4.0-1_amd64.deb
+ 436c0da0b24df39dd0c3aff9143e4914 2478 libs extra casablanca_1.4.0-1.debian.tar.gz
+ a4b68689e7e4c83e7c6ab0d8cefa06cc 184964 libdevel extra casablanca-dev_1.4.0-1_amd64.deb
+ 3ce7fc67206d27ce516cd27b072265cf 483298 libs extra casablanca_1.4.0-1_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.11 (GNU/Linux)
 
-iQEcBAEBAgAGBQJTDKwCAAoJEHo82nMPB7RZYDMH/jTxXJGmY4iCQ/SbB73mLDiR
-XgoMp5SxsKFPhn3mVxUIM8PfafHfl4KVD0k6yEsslCkJYGPM/bvdoLunR/X/s2sz
-jwpniKVDDN0NWR+nbj98dzx4QkBm+yJMvcHf1/diCsbiVJ4j5/+7UAQIE5RROnpj
-dx5xSmAvTrNPie8dZy9Z8fPZTDjC+NJryv8E7q7dGM+d/OwdGi6Ir6heaM8sv52F
-+nuGrZMsT8eageOAdAZw7/RhCmXh6Gd6S7zib4YTU8xQczSUY1LX5t16tVzgOcsV
-t07TzYCzSsPDCqZuACAllnqDV9jMRtpyKWPMJpWqYvroVXhCSMYhps7Ldoh+PcA=
-=UROZ
+iQEcBAEBAgAGBQJTF33kAAoJEHo82nMPB7RZ04IH/Rdp7SUynj+BCra6Buwpn2+W
+lku9k9+YMSH6ctf2L1IK0wOce6VERIlu9sIb7gweal9nzdfw7njuUcgy3ya4x4kj
+OeXuE1jVik/4CsjC8RwK5KwKi7NP6jwO0lisKz0NTseMJ3EcIdDI8kn7ho1xL9TB
+hkoZnt8yRlh2cNnxtdUaVdIJktM0vRgvn6GIE3gQPhBlP3W13hqGD7QrX4fGZSlS
+TLZ7EdZky6wAWf3PNjOLfK3UpUkMk3PsWmRBkG/JhoondL+PzErAhk/glPpiCFvX
+O8Nf7RSdZPDkqVmw4wH5moXxP5yauLPwVuQVik+inKbn8KaozlF2O4DuD151+40=
+=ICGN
 -----END PGP SIGNATURE-----
